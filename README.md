@@ -110,7 +110,7 @@ docker-compose down
 
 ## ✍️ Author
 
-**Vaibhavi Sugandhi**
+**Piyush bankhede**
 GitHub: [@piyushbankhede](https://github.com/piyushbankhede)
 
 ---
